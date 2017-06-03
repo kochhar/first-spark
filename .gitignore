@@ -1,0 +1,23 @@
+.idea
+.DB_Store
+
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/build.properties
+project/boot/
+project/plugins/project/
+
+# spark specific
+metastore_db/
+derby.log
+
+# twitter4j specific
+twitter4j.properties
+
